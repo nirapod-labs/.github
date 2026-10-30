@@ -27,7 +27,7 @@ Each one holds for every possible input. [How we prove them](https://nirapod.org
 
 ### Verified cryptography
 
-- [**nirapod-sha2**](https://github.com/nirapod-labs/nirapod-sha2): SHA-2 and HMAC for x86-64 and AArch64 in Jasmin, proved correct and memory safe in EasyCrypt, checked constant-time and speculative constant-time.
+- [**nirapod-sha2**](https://github.com/nirapod-labs/nirapod-sha2): formally verified SHA-2 and HMAC in Jasmin, proved correct and memory safe in EasyCrypt, and checked constant-time and speculative constant-time.
 - [**pasta-glv-proofs**](https://github.com/nirapod-labs/pasta-glv-proofs): machine-checked Lean 4 proofs of the wNAF recoding and Straus ladder in the GLV scalar multiplication of `pasta_curves`.
 
 ### Get in touch
