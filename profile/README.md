@@ -25,26 +25,28 @@
 
 ### Verified cryptography
 
-| | |
-|---|---|
-| [**nirapod-sha2**](https://github.com/nirapod-labs/nirapod-sha2) | SHA-2 and HMAC for x86-64 and AArch64 in Jasmin, proved correct and memory safe in EasyCrypt, and checked constant-time and speculative constant-time |
-| [**pasta-glv-proofs**](https://github.com/nirapod-labs/pasta-glv-proofs) | A machine-checked Lean 4 proof of the wNAF recoding and Straus ladder in the GLV scalar multiplication of `pasta_curves` |
+<p>
+<a href="https://github.com/nirapod-labs/nirapod-sha2"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nirapod-labs/.github/main/profile/assets/repo-nirapod-sha2-dark.svg"><img alt="nirapod-sha2: SHA-2 and HMAC for x86-64 and AArch64, proved correct and memory safe, checked constant-time." src="https://raw.githubusercontent.com/nirapod-labs/.github/main/profile/assets/repo-nirapod-sha2-light.svg" width="49%"></picture></a>
+<a href="https://github.com/nirapod-labs/pasta-glv-proofs"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nirapod-labs/.github/main/profile/assets/repo-pasta-glv-proofs-dark.svg"><img alt="pasta-glv-proofs: machine-checked Lean 4 proofs of the wNAF recoding and Straus ladder in pasta_curves’ GLV multiplication." src="https://raw.githubusercontent.com/nirapod-labs/.github/main/profile/assets/repo-pasta-glv-proofs-light.svg" width="49%"></picture></a>
+</p>
 
 ### The toolchain
 
-| | |
-|---|---|
-| [**toolchain**](https://github.com/nirapod-labs/toolchain) | The Jasmin and EasyCrypt toolchain our verified cryptography is built and proved with, prebuilt for Linux and macOS |
-| [**jasmin**](https://github.com/nirapod-labs/jasmin) | Our fork of the Jasmin compiler, where each change is a branch with its own pull request upstream |
-| [**jasmin-crypto-vscode**](https://github.com/nirapod-labs/jasmin-crypto-vscode) | Syntax highlighting and language support for Jasmin (`.jazz`) in VS Code |
-| [**easycrypt-vscode**](https://github.com/nirapod-labs/easycrypt-vscode) | Syntax highlighting and language support for EasyCrypt (`.ec`, `.eca`) in VS Code |
+<p>
+<a href="https://github.com/nirapod-labs/toolchain"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nirapod-labs/.github/main/profile/assets/repo-toolchain-dark.svg"><img alt="toolchain: the pinned Jasmin and EasyCrypt toolchain our code is built and proved with." src="https://raw.githubusercontent.com/nirapod-labs/.github/main/profile/assets/repo-toolchain-light.svg" width="49%"></picture></a>
+<a href="https://github.com/nirapod-labs/jasmin"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nirapod-labs/.github/main/profile/assets/repo-jasmin-dark.svg"><img alt="jasmin: our fork of the Jasmin compiler. Each change is a branch with its own pull request upstream." src="https://raw.githubusercontent.com/nirapod-labs/.github/main/profile/assets/repo-jasmin-light.svg" width="49%"></picture></a>
+</p>
+<p>
+<a href="https://github.com/nirapod-labs/jasmin-crypto-vscode"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nirapod-labs/.github/main/profile/assets/repo-jasmin-crypto-vscode-dark.svg"><img alt="jasmin-crypto-vscode: syntax highlighting and language support for Jasmin in VS Code." src="https://raw.githubusercontent.com/nirapod-labs/.github/main/profile/assets/repo-jasmin-crypto-vscode-light.svg" width="49%"></picture></a>
+<a href="https://github.com/nirapod-labs/easycrypt-vscode"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nirapod-labs/.github/main/profile/assets/repo-easycrypt-vscode-dark.svg"><img alt="easycrypt-vscode: syntax highlighting and language support for EasyCrypt in VS Code." src="https://raw.githubusercontent.com/nirapod-labs/.github/main/profile/assets/repo-easycrypt-vscode-light.svg" width="49%"></picture></a>
+</p>
 
 ### Developer tools
 
-| | |
-|---|---|
-| [**simenclave**](https://github.com/nirapod-labs/simenclave) | A real hardware Secure Enclave for the iOS and watchOS Simulators |
-| [**simble**](https://github.com/nirapod-labs/simble) | Real Bluetooth Low Energy for the iOS and watchOS Simulators |
+<p>
+<a href="https://github.com/nirapod-labs/simenclave"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nirapod-labs/.github/main/profile/assets/repo-simenclave-dark.svg"><img alt="simenclave: a real hardware Secure Enclave for the iOS and watchOS Simulators." src="https://raw.githubusercontent.com/nirapod-labs/.github/main/profile/assets/repo-simenclave-light.svg" width="49%"></picture></a>
+<a href="https://github.com/nirapod-labs/simble"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nirapod-labs/.github/main/profile/assets/repo-simble-dark.svg"><img alt="simble: real Bluetooth Low Energy for the iOS and watchOS Simulators." src="https://raw.githubusercontent.com/nirapod-labs/.github/main/profile/assets/repo-simble-light.svg" width="49%"></picture></a>
+</p>
 
 ### Get in touch
 
