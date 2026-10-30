@@ -30,24 +30,6 @@
 <a href="https://github.com/nirapod-labs/pasta-glv-proofs"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nirapod-labs/.github/main/profile/assets/repo-pasta-glv-proofs-dark.svg"><img alt="pasta-glv-proofs: machine-checked Lean 4 proofs of the wNAF recoding and Straus ladder in pasta_curves’ GLV multiplication." src="https://raw.githubusercontent.com/nirapod-labs/.github/main/profile/assets/repo-pasta-glv-proofs-light.svg" width="49%"></picture></a>
 </p>
 
-### The toolchain
-
-<p>
-<a href="https://github.com/nirapod-labs/toolchain"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nirapod-labs/.github/main/profile/assets/repo-toolchain-dark.svg"><img alt="toolchain: the pinned Jasmin and EasyCrypt toolchain our code is built and proved with." src="https://raw.githubusercontent.com/nirapod-labs/.github/main/profile/assets/repo-toolchain-light.svg" width="49%"></picture></a>
-<a href="https://github.com/nirapod-labs/jasmin"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nirapod-labs/.github/main/profile/assets/repo-jasmin-dark.svg"><img alt="jasmin: our fork of the Jasmin compiler. Each change is a branch with its own pull request upstream." src="https://raw.githubusercontent.com/nirapod-labs/.github/main/profile/assets/repo-jasmin-light.svg" width="49%"></picture></a>
-</p>
-<p>
-<a href="https://github.com/nirapod-labs/jasmin-crypto-vscode"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nirapod-labs/.github/main/profile/assets/repo-jasmin-crypto-vscode-dark.svg"><img alt="jasmin-crypto-vscode: syntax highlighting and language support for Jasmin in VS Code." src="https://raw.githubusercontent.com/nirapod-labs/.github/main/profile/assets/repo-jasmin-crypto-vscode-light.svg" width="49%"></picture></a>
-<a href="https://github.com/nirapod-labs/easycrypt-vscode"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nirapod-labs/.github/main/profile/assets/repo-easycrypt-vscode-dark.svg"><img alt="easycrypt-vscode: syntax highlighting and language support for EasyCrypt in VS Code." src="https://raw.githubusercontent.com/nirapod-labs/.github/main/profile/assets/repo-easycrypt-vscode-light.svg" width="49%"></picture></a>
-</p>
-
-### Developer tools
-
-<p>
-<a href="https://github.com/nirapod-labs/simenclave"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nirapod-labs/.github/main/profile/assets/repo-simenclave-dark.svg"><img alt="simenclave: a real hardware Secure Enclave for the iOS and watchOS Simulators." src="https://raw.githubusercontent.com/nirapod-labs/.github/main/profile/assets/repo-simenclave-light.svg" width="49%"></picture></a>
-<a href="https://github.com/nirapod-labs/simble"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nirapod-labs/.github/main/profile/assets/repo-simble-dark.svg"><img alt="simble: real Bluetooth Low Energy for the iOS and watchOS Simulators." src="https://raw.githubusercontent.com/nirapod-labs/.github/main/profile/assets/repo-simble-light.svg" width="49%"></picture></a>
-</p>
-
 ### Get in touch
 
 Questions about our work, or want to work with us: **hello@nirapod.org**.
