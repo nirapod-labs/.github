@@ -16,25 +16,21 @@
 
 **Nirapod Labs** is a research lab for high-assurance cryptography. We implement the standards that secure the internet and formally verify the code: right results, no secret-dependent timing and no memory errors, for every possible input. A machine checks every proof, so anyone can run the checker and get the same answer.
 
-<a href="https://nirapod.org/approach/properties/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nirapod-labs/.github/main/profile/assets/prove-dark.svg">
-    <img alt="What we prove. P1 functional correctness, P2 constant-time execution, P3 speculative constant-time, P4 memory safety, each for every possible input." src="https://raw.githubusercontent.com/nirapod-labs/.github/main/profile/assets/prove-light.svg" width="100%">
-  </picture>
-</a>
+### What we prove
+
+- **Functional correctness.** The code computes exactly the result the standard defines.
+- **Constant-time execution.** Secret values never shape the path the code takes or the memory it touches.
+- **Speculative constant-time.** Secrets stay hidden even while the processor speculates past a wrong guess.
+- **Memory safety.** Every read and write stays inside memory the code may use.
+
+Each one holds for every possible input. [How we prove them](https://nirapod.org/approach/properties/)
 
 ### Verified cryptography
 
-<p>
-<a href="https://github.com/nirapod-labs/nirapod-sha2"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nirapod-labs/.github/main/profile/assets/repo-nirapod-sha2-dark.svg"><img alt="nirapod-sha2: SHA-2 and HMAC for x86-64 and AArch64, proved correct and memory safe, checked constant-time." src="https://raw.githubusercontent.com/nirapod-labs/.github/main/profile/assets/repo-nirapod-sha2-light.svg" width="49%"></picture></a>
-<a href="https://github.com/nirapod-labs/pasta-glv-proofs"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nirapod-labs/.github/main/profile/assets/repo-pasta-glv-proofs-dark.svg"><img alt="pasta-glv-proofs: machine-checked Lean 4 proofs of the wNAF recoding and Straus ladder in pasta_curves’ GLV multiplication." src="https://raw.githubusercontent.com/nirapod-labs/.github/main/profile/assets/repo-pasta-glv-proofs-light.svg" width="49%"></picture></a>
-</p>
+- [**nirapod-sha2**](https://github.com/nirapod-labs/nirapod-sha2): SHA-2 and HMAC for x86-64 and AArch64 in Jasmin, proved correct and memory safe in EasyCrypt, checked constant-time and speculative constant-time.
+- [**pasta-glv-proofs**](https://github.com/nirapod-labs/pasta-glv-proofs): machine-checked Lean 4 proofs of the wNAF recoding and Straus ladder in the GLV scalar multiplication of `pasta_curves`.
 
 ### Get in touch
 
 Questions about our work, or want to work with us: **hello@nirapod.org**.
 Found a flaw in our code, proofs or website: **security@nirapod.org**, and see our [disclosure policy](https://nirapod.org/security/).
-
-<a href="https://nirapod.org">
-  <img alt="Our mission is to make formal verification the standard for the cryptography the world depends on." src="https://raw.githubusercontent.com/nirapod-labs/.github/main/profile/assets/footer.svg" width="100%">
-</a>
